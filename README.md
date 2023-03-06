@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Prince Movaliya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=कृष्णं+वंदे+जगद्गुरुम्..&hearts;++;Computer+Enginnering+Student,;Active+Learner/Researcher,;Love+to+code+something+new..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Enginnering+Student,;Active+Learner,;Love+to+code+something+new..<3"></a>
 </p>
 
 
@@ -18,7 +18,7 @@
 <br>
 
 - Currently learning Web Development by Self
-- Currently learning C++ DSA In Collage
+- Currently learning C++ DSA In College
 
 <br><br>
 
@@ -30,9 +30,8 @@
 <p align="center">
 
 - **Languages**:
+    <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> </p>
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     
 - **Softwares and Tools**:
 
@@ -61,11 +60,14 @@
 <br>
 
 <div align="center">
-
-<a href="https://github.com/SatyamCharola/">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatyamCharola&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatyamCharola&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="SatyamCharola"/>
-
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princemovaliya&show_icons=true&locale=en&layout=compact" alt="princemovaliya" /></p>
+</br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princemovaliya&show_icons=true&locale=en" alt="princemovaliya" /></p>
+</br>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princemovaliya&" alt="princemovaliya" /></p>
+</br>
 </a>
 </div>
 
@@ -85,26 +87,22 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/satyam-charola-b3630a237" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  SatyamCharola-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/prince-movaliya-495221251" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince movaliya" height="30" width="40" />
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="https://twitter.com/SatyamCharola" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  SatyamCharola-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://instagram.com/prince__movaliya?igshid=ZDdkNTZiNTM=" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince_movaliya" height="30" width="40" />
 </a>
 </li>
 
 <br>
 
-<li>
-<a href="mailto:satyamcharola@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  SatyamCharola-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
+
 	
 </ul>
 </div>
