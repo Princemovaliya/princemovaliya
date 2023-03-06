@@ -42,9 +42,7 @@
 
 <br>
 
-- **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </p>
 
@@ -57,19 +55,11 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 
-<div align="center">
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princemovaliya&show_icons=true&locale=en&layout=compact" alt="princemovaliya" /></p>
-</br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princemovaliya&show_icons=true&locale=en" alt="princemovaliya" /></p>
-</br>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princemovaliya&" alt="princemovaliya" /></p>
-</br>
-</a>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Princemovaliya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Princemovaliya&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Princemovaliya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <br>
 <br>
